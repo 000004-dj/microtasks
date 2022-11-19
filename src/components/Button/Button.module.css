@@ -1,0 +1,17 @@
+.redButton{
+    background: darkred;
+    color: white;
+    border-radius: 20px;
+    padding: 10px;
+    font-weight: bold;
+    width: 100%;
+
+}
+.redButton:active{
+    background: red;
+}
+div{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+
+}
